@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25d8e256-a9c1-4a85-9c93-669e6f90c765" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Constanta_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contacts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Montserrat-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/NunitoSans-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/MyPhoto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/line-maker.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/_jquery-2.2.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/_fonts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/_normalize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_about.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_contacts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_hamburger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_other.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_present.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_skills.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_works.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/theme/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/theme/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,8 +16,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state relative-caret-position="34">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -193,12 +163,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604893800731</updated>
-      <workItem from="1604893803616" duration="16012000" />
+      <workItem from="1604893803616" duration="16191000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16012000" />
+    <option name="totallyTimeSpent" value="16191000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -219,10 +189,10 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="npm" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.2371134" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.2371134" />
       <window_info anchor="right" id="Remote Host" />
       <window_info id="Gulp" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.185836" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.185836" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -459,8 +429,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state relative-caret-position="34">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
