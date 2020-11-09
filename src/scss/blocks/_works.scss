@@ -1,0 +1,13 @@
+.works {
+  &__title {
+    text-align: center;
+    color: #191919;
+  }
+  &__desc {
+    color: #787878;
+    font: 400 1rem/1.5rem NunitoSans, sans-serif;
+    a {
+      color: #0d44db;
+    }
+  }
+}

@@ -1,0 +1,12 @@
+.skills {
+  background: #050814 url("../img/line-maker.svg") 50% 50% repeat;
+  background-size: 8.75rem;
+  &__title {
+    color: #fff;
+    text-align: center;
+  }
+  &__desc {
+    color: #787878;
+    font: 400 1rem/1.5rem NunitoSans, sans-serif;
+  }
+}

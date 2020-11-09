@@ -1,0 +1,68 @@
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  &__wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__logo {
+    font: 500 2rem/1 Montserrat, sans-serif;
+    color: #fff;
+    @media (max-width: 992px) {
+      font-size: 28px;
+      max-width: calc(100% - 35px);
+    }
+  }
+  &__menu {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    a {
+      margin-left: 1.875rem;
+      text-transform: uppercase;
+      color: #fff;
+      transition: all 0.4s ease;
+      &:hover {
+        @media (min-width: 992px) {
+          box-shadow: 0 20px 53px 0 rgba(255,255,255,.5);
+          color: #0d44db;
+        }
+      }
+    }
+    @media (max-width: 992px) {
+      position: fixed;
+      top: 0;
+      right: -65%;
+      width: auto;
+      height: 100%;
+      min-height: 100vh;
+      background: #fff;
+      z-index: 100;
+      text-align: center;
+      display: block;
+      padding: 30px 30px;
+      padding-top: 80px;
+      overflow: auto;
+      box-shadow: 0 0 50px 30px rgba(0,0,0,.45);
+      transition: all 0.4s ease;
+      &.active {
+        right: 0;
+      }
+      a {
+        width: 100%;
+        display: block;
+        margin: 0;
+        text-align: left;
+        margin-bottom: 15px;
+        color: #050814;
+        font-size: 15px;
+      }
+    }
+  }
+}
